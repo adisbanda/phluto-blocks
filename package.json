@@ -8,6 +8,10 @@
     "react-dom": "^16.3.2",
     "react-scripts": "1.1.4"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adisbanda/phluto-blocks.git"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
